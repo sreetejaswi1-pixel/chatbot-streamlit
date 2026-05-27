@@ -1,0 +1,5 @@
+Artificial Intelligence is simulation of human intelligence.
+
+Machine Learning is a subset of AI.
+
+RAG stands for Retrieval Augmented Generation.
