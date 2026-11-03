@@ -1,8 +1,6 @@
 streamlit
-langchain
-langchain-community
 faiss-cpu
+ollama
 sentence-transformers
-huggingface-hub
-python-dotenv
 pypdf
+numpy
